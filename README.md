@@ -1,5 +1,5 @@
 # SVD-based image quality asessment
-![svd_moc.png](img/svd_moc.png)
+![ssvd_moc.png](img/ssvd_moc.png)
 This repository consist of the project at [NLA2020](https://github.com/oseledets/nla2020) course at Skoltech. Main results:
 - Sturcture, HVS and statistical-based IQA metrics were analysed
 - [SSVD](https://www.sciencedirect.com/science/article/abs/pii/S0923596519300554), [Haar](https://www.sciencedirect.com/science/article/abs/pii/S0923596517302187)and [PSNR](https://www.sciencedirect.com/science/article/abs/pii/S1047320314000091) approaches were implemented
